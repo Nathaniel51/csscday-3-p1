@@ -1,0 +1,71 @@
+
+body {background-color:beige}
+
+#all-fin{background-color: dimgray;
+padding-bottom: 20px;
+margin-bottom: 20px;
+}
+
+
+.financing {
+    
+    float: left;
+    color:aliceblue;
+
+    
+    
+
+    
+    
+    
+}
+.financingf {
+    
+    
+    float:right;
+    
+    
+    
+
+
+}
+
+
+#all-info {
+    Clear:both;
+   
+}
+
+#container {
+    
+    display: inline-block;
+    margin-left: 10px;
+    box-sizing: border-box;
+    
+    
+
+
+}
+
+.money {
+   
+    width: 120px;
+    background-color:white ;
+    border-color: darkgoldenrod;
+    border-style: solid;
+    float:left;
+    padding: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-bottom: 40px;
+    margin-right: 10px;
+    
+  }
+.url {
+    text-align: center;
+    background-color: dimgrey;
+    padding: 10px;
+    padding-top: 10px;
+    font-size: 10px;
+}
+
